@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_text">Welcome to ALC 4.0!</string>
+    <string name="btn_alc_info">ABOUT ALC</string>
+    <string name="btn_profile_info">MY PROFILE</string>
+    <string name="profile_name">Yufui Glen</string>
+    <string name="profile_track">Track:   Android</string>
+    <string name="profile_country">Country: Cameroon</string>
+    <string name="profile_email">Email: glenyufui@gmail.com</string>
+    <string name="profile_phone">Number: +237678313012</string>
+    <string name="profile_slack_handle">Slack Handle: @glenyufui</string>
+</resources>
